@@ -10,7 +10,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
 - 🔭 I’m currently working as a backend trainee of TICPSH.  
+
 - 🌱 I’m currently learning Computer vision.  
+
 - 👯 I’m going to study as a master in ShanghaiTech University.  
+
 - 💬 Welcome to communicate with me.  
+
 - 📫 Reach me through: huhuazhang98@gmail.com  
