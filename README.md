@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer vision.  
 - 👯 I’m going to study as a master in ShanghaiTech University.  
 - 💬 Welcome to communicate with me.  
-- 📫 How to reach me: huhuazhang98@gmail.com  
+- 📫 Reach me through: huhuazhang98@gmail.com  
