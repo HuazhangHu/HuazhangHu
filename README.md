@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
-- 🔭 I’m currently working as a backend trainee of TICPSH.  
+- 🔭 I’m currently working as a backend engineer of TICPSH.  
 
 - 🌱 I’m currently learning Computer vision.  
 
