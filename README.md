@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a backend engineer of TICPSH.  
 
-- 🌱 I’m currently learning Computer vision.  
+- 🌱 I’m currently learning Computer Vision.  
 
-- 👯 I’m going to study as a master in ShanghaiTech University.  
+- 👯 I’m going to study for a master in ShanghaiTech University.  
 
 - 💬 Welcome to communicate with me.  
 
