@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
-- 🔭 I’m currently working as a backend engineer of TICPSH.  
+- 🔭 I’m currently working in SVIP-lab.  
 
 - 🌱 I’m currently learning Computer Vision.  
 
-- 👯 I’m going to study for a master in ShanghaiTech University.  
+- 👯 I’m studying as a master in ShanghaiTech University.  
 
 - 💬 Welcome to communicate with me.  
 
