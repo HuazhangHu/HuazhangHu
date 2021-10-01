@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
-- 🔭 I’m currently working in SVIP-lab.  
+- 🔭 I’m currently working in [SVIP-lab](https://github.com/svip-lab).  
 
 - 🌱 I’m currently learning Computer Vision.  
 
