@@ -9,10 +9,9 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
-- 🔭 I’m currently working in [SVIP-lab](https://svip-lab.github.io/team.html).  
+
+- 👯 I’m currently studying as a master of [SVIP-lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/).  
 
 - 🌱 I’m currently learning Computer Vision.  
-
-- 👯 I’m studying as a master in [ShanghaiTech University](https://www.shanghaitech.edu.cn/).  
 
 - 💬 Welcome to communicate with me. Reach me through: huhuazhang98@gmail.com  
