@@ -10,12 +10,14 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
 
-- 😄 I’m currently studying as a master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).  
+😄 I’m currently studying as a master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).  
 
 🌱 I mainly focus on:
  * Video Understanding and Analysis
- * Self-supervised on video task.   
+ * Self-supervised on Video Task.   
 
 👯 Publications:
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022`
+
+
  💬 Welcome to communicate with me. Reach me through: huhuazhang98@gmail.com  
