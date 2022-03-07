@@ -1,4 +1,4 @@
-### Hi, I'm *Huazhang Hu* 👋
+### Hi, I'm **Hua-zhang Hu** 👋
 
 <!--
 **957001934/957001934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
