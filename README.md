@@ -1,6 +1,6 @@
 ## Hi, I'm **Hua-zhang Hu** 👋
 
-😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).  
+😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
 
 🔭 **I mainly focus on:**
  * Video Understanding and Analysis
@@ -10,7 +10,7 @@
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022`
 
 🌱 **News:**
-- 2022-03-02: A paper about repetition action counting is accepted on CVPR 2022.
+- 2022-03-02: A paper about repetition action counting is accepted on CVPR 2022
 
  💬 Welcome to communicate with me. Reach me through: huhuazhang98@gmail.com  
  
