@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=957001934)
 
 
-- 👯 I’m currently studying as a master of [SVIP-lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/).  
+- 👯 I’m currently studying as a master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/).  
 
 - 🌱 I’m currently learning Computer Vision.  
 
