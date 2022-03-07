@@ -4,7 +4,7 @@
 
 🔭 **I mainly focus on:**
  * Video Understanding and Analysis
- * Self-supervised on Video Task.   
+ * Self-supervised or Weekly-supervised Video Anomaly Detection  
 
 👯 **Publications:**
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022`
