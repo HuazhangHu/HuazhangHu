@@ -10,7 +10,7 @@
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022` [code](https://github.com/SvipRepetitionCounting/TransRAC)
 
 🌱 **News:**
-- 2022-03-02: A paper about repetition action counting is accepted on CVPR 2022
+- 2022-03-02: A paper about repetition action counting is accepted on [CVPR 2022](https://cvpr2022.thecvf.com/)
 
  💬 Welcome to communicate with me. Reach me through: huhuazhang98@gmail.com  
  
