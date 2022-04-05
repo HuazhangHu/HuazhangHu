@@ -7,7 +7,7 @@
  * Self-supervised or Weekly-supervised Video Anomaly Detection  
 
 🌱 **Publications:**
- * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022` [code](https://github.com/SvipRepetitionCounting/TransRAC)
+ * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022` [code](https://github.com/SvipRepetitionCounting/TransRAC) [paper](https://arxiv.org/abs/2204.01018)
 
 💬 **News:**
 - 2022-03-28: My paper has been selected for an **ORAL** presentation on `CVPR 2022`
