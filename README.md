@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=957001934)
-[![Ambition's GitHub stats](https://github-readme-stats.vercel.app/api?username=957001934)](https://github.com/957001934/github-readme-stats)
+[![Ambition's GitHub stats](https://github-readme-stats.vercel.app/api?username=957001934&show_icons=true&theme=radical)](https://github.com/957001934/github-readme-stats)
