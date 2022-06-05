@@ -14,14 +14,7 @@
 
 📫 Welcome to communicate with me. Reach me through: huhuazhang98@gmail.com  
  
-<!--  ----
- 
-<!--
-**957001934/957001934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 [![Ambition's GitHub stats](https://github-readme-stats.vercel.app/api?username=957001934&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
