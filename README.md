@@ -3,8 +3,8 @@
 😄 I’m a Second-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
 
 🔭 **I mainly focus on:**
- * Video Understanding and Analysis
- * Video Anomaly Detection and Human Action Understanding  
+ * Video Understanding and Activity Analysis
+ * Multi-modality Representation Learning 
 
 🌱 **Publications:**
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022`   
