@@ -14,7 +14,7 @@
 - 2022-06: We are invited to oral presentation with virtual attendance on `CVPR 2022`.
 - 2022-03: A paper about repetitive action counting is accepted for an **Oral presentation**  on [CVPR 2022](https://cvpr2022.thecvf.com/).
 
-📫 Welcome to communicate with me. Reach me through: huhuazhang98@gmail.com  
+📫 Welcome to communicate with me. Reach me through: huhzh@gqq.com  
  
 <!-- 
 
