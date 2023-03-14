@@ -9,7 +9,7 @@
 🌱 **Publications:**
  * Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos `CVPR 2023`. 
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022`.    
-[Code](https://github.com/SvipRepetitionCounting/TransRAC) | [Paper]([https://arxiv.org/abs/2204.01018](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_TransRAC_Encoding_Multi-Scale_Temporal_Correlation_With_Transformers_for_Repetitive_Action_CVPR_2022_paper.html)) | [Oral Presentation](https://www.youtube.com/watch?v=SFpUS9mHHpk)
+[Code](https://github.com/SvipRepetitionCounting/TransRAC) | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_TransRAC_Encoding_Multi-Scale_Temporal_Correlation_With_Transformers_for_Repetitive_Action_CVPR_2022_paper.html) | [Oral Presentation](https://www.youtube.com/watch?v=SFpUS9mHHpk)
 
 💬 **News:**
 - 2023-03: A paper about video representation learning is accepted on [`CVPR 2023`](https://cvpr.thecvf.com/).
