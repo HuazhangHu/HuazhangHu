@@ -14,6 +14,7 @@
 
 💬 **News:**
 - 2023-03: A paper about video representation learning is accepted on [`CVPR 2023`](https://cvpr.thecvf.com/).
+- 2023-01: I serve as a reviewer for CVPR 2023.
 - 2022-06: We are invited to oral presentation with virtual attendance on `CVPR 2022`.
 - 2022-03: A paper about repetitive action counting is accepted for an  **Oral presentation**  on [CVPR 2022](https://cvpr2022.thecvf.com/).
 
