@@ -13,8 +13,8 @@
 [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_TransRAC_Encoding_Multi-Scale_Temporal_Correlation_With_Transformers_for_Repetitive_Action_CVPR_2022_paper.html) | [Code](https://github.com/SvipRepetitionCounting/TransRAC) | [Oral Presentation](https://www.youtube.com/watch?v=SFpUS9mHHpk)
 
 ✨ **Intern:** 
-- 2022-11--2023-03: I worked as an computer vision algorithm intern in [NIO](https://www.nio.cn).
 - 2023-06--Now: I am working as an computer vision algorithm intern in [Alibaba](https://www.nio.cn/).  
+- 2022-11--2023-03: I worked as an computer vision algorithm intern in [NIO](https://www.nio.cn).  
 
 💬 **News:**
 - 2023-03: A paper about video representation learning is accepted on [`CVPR 2023`](https://cvpr.thecvf.com/).
