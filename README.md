@@ -4,7 +4,7 @@
 
 🔭 **I mainly focus on:**
  * Video Understanding and Activity Analysis
- * Multi-modality Representation Learning 
+ * Multi-modality Learning 
 
 🌱 **Publications:**
  * **Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos** `CVPR 2023`.  
@@ -17,7 +17,7 @@
 - 2022-11--2023-03: I worked as an intern in [NIO](https://www.nio.cn).  
 
 💬 **News:**
-- 2023-03: A paper about video representation learning is accepted on [`CVPR 2023`](https://cvpr.thecvf.com/).
+- 2023-03: A paper about multi-modality representation learning is accepted on [`CVPR 2023`](https://cvpr.thecvf.com/).
 - 2023-01: I serve as a reviewer for CVPR 2023, ICCV 2023.
 - 2022-06: We are invited to oral presentation with virtual attendance on `CVPR 2022`.
 - 2022-03: A paper about repetitive action counting is accepted for an  **Oral presentation**  on [CVPR 2022](https://cvpr2022.thecvf.com/).
