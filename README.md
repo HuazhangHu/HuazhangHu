@@ -1,6 +1,6 @@
 ## Hi, I'm **[Hua-zhang Hu](https://scholar.google.com/citations?user=wlJOdBQAAAAJ&hl=zh-CN)** 👋
 
-😄 I’m a Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
+😄 I’m a Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ). 
 
 🔭 **I mainly focus on:**
  * Video Understanding and Activity Analysis
