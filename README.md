@@ -13,7 +13,7 @@
 [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_TransRAC_Encoding_Multi-Scale_Temporal_Correlation_With_Transformers_for_Repetitive_Action_CVPR_2022_paper.html) | [Code](https://github.com/SvipRepetitionCounting/TransRAC) | [Oral Presentation](https://www.youtube.com/watch?v=SFpUS9mHHpk)
 
 ✨ **Working:** 
-- 2024-05--Now: I am working as a AIGC engineer.
+- 2024-05--Now: I am working as a AIGC engineer in [Xiaohongshu](https://www.xiaohongshu.com/).
 - 2023-06--2023-09: I worked as an intern in [Alibaba](https://www.alibabagroup.com/).  
 - 2022-11--2023-03: I worked as an intern in [NIO](https://www.nio.cn).  
 
