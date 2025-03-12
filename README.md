@@ -5,7 +5,6 @@
 🔭 **I mainly focus on:**
  * AIGC 
  * Video Understanding and Activity Analysis
- * Multi-modality Learning 
 
 🌱 **Publications:**
  * **Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos** `CVPR 2023`.  
