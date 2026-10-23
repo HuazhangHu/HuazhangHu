@@ -14,7 +14,7 @@
 
 ✨ **Working:** 
 - 2024-05--Now: I am working as an AIGC engineer in [Xiaohongshu](https://www.xiaohongshu.com/).
-- 2023-06--2023-09: I worked as an intern in [Alibaba](https://www.alibabagroup.com/).  
+- 2023-06--2023-10: I worked as an intern in [Alibaba](https://www.alibabagroup.com/).  
 - 2022-11--2023-03: I worked as an intern in [NIO](https://www.nio.cn).  
 
 📫 Welcome to communicate with me. Reach me through: huhzh@qq.com  
